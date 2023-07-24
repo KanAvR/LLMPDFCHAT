@@ -1,5 +1,5 @@
 # LLMPDFCHAT
-LLMPDFCHAT is a straightforward and user-friendly web application that utilizes Language Models (LLM) to enable seamless conversations with multiple PDF documents. With LLMPDFCHAT, users can effortlessly chat and interact with the content of multiple PDF files simultaneously, making document exploration and information retrieval a breeze.
+LLMPDFCHAT is a straightforward and user-friendly web application that utilizes Google Palm to enable seamless conversations with multiple PDF documents. With LLMPDFCHAT, users can effortlessly chat and interact with the content of multiple PDF files simultaneously, making document exploration and information retrieval a breeze.
 
 
 
