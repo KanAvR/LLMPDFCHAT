@@ -11,12 +11,12 @@ Clone the repository to your local machine.
 Install the required dependencies by running the following command:
 
 pip install -r requirements.txt
-Obtain an API key from OpenAI or any other LLM and add it to the .env file in the project directory.
+Obtain an API key from google Palm  and add it to the .env file in the project directory.
 
 Usage
 To use the MultiPDF Chat App, follow these steps:
 
-Ensure that you have installed the required dependencies and added the OpenAI API key to the .env file.
+Ensure that you have installed the required dependencies and added the google palm API key to the .env file.
 
 Run the main.py file using the Streamlit CLI. Execute the following command:
 
